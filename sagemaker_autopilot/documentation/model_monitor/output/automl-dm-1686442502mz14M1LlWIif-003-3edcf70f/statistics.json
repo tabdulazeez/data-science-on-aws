@@ -1,0 +1,74 @@
+{
+  "version" : 0.0,
+  "dataset" : {
+    "item_count" : 7110,
+    "evaluation_time" : "2023-06-11T00:45:10.624Z"
+  },
+  "multiclass_classification_metrics" : {
+    "confusion_matrix" : {
+      "0" : {
+        "0" : 830,
+        "1" : 1026,
+        "-1" : 514
+      },
+      "1" : {
+        "0" : 425,
+        "1" : 1779,
+        "-1" : 166
+      },
+      "-1" : {
+        "0" : 901,
+        "1" : 915,
+        "-1" : 554
+      }
+    },
+    "accuracy" : {
+      "value" : 0.4448663853727145,
+      "standard_deviation" : 0.0034639583050399265
+    },
+    "weighted_recall" : {
+      "value" : 0.4448663853727145,
+      "standard_deviation" : 0.0034639583050399044
+    },
+    "weighted_precision" : {
+      "value" : 0.4373814975117173,
+      "standard_deviation" : 0.0030943623240750257
+    },
+    "weighted_f0_5" : {
+      "value" : 0.42409041037954764,
+      "standard_deviation" : 0.003398077346859674
+    },
+    "weighted_f1" : {
+      "value" : 0.41948080328579596,
+      "standard_deviation" : 0.003695116475033699
+    },
+    "weighted_f2" : {
+      "value" : 0.42968521149028893,
+      "standard_deviation" : 0.0037053060856753295
+    },
+    "accuracy_best_constant_classifier" : {
+      "value" : 0.3333333333333333,
+      "standard_deviation" : 0.0035355641808247
+    },
+    "weighted_recall_best_constant_classifier" : {
+      "value" : 0.3333333333333333,
+      "standard_deviation" : 0.0035355641808247
+    },
+    "weighted_precision_best_constant_classifier" : {
+      "value" : 0.1111111111111111,
+      "standard_deviation" : 0.0023626290542934905
+    },
+    "weighted_f0_5_best_constant_classifier" : {
+      "value" : 0.1282051282051282,
+      "standard_deviation" : 0.0026205327075696262
+    },
+    "weighted_f1_best_constant_classifier" : {
+      "value" : 0.16666666666666666,
+      "standard_deviation" : 0.003098271773251402
+    },
+    "weighted_f2_best_constant_classifier" : {
+      "value" : 0.2380952380952381,
+      "standard_deviation" : 0.003609853794141403
+    }
+  }
+}
