@@ -1,5 +1,5 @@
 ***
-Data Science on AWS
+**Data Science on AWS**
 ***
 
 - [Register, Analyze and Visualize Data](./viz_and_analyze_data/)
@@ -12,7 +12,7 @@ Data Science on AWS
 
 
 ***
-Resources
+**Resources**
 ***
 - [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler)
 - [AWS Glue](https://aws.amazon.com/glue) 
