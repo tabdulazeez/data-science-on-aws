@@ -6,3 +6,11 @@ Data Science on AWS
 - [Train a model with Amazon SageMaker Autopilot](./sagemaker_autopilot/)
 - [Train a text classifier using Amazon SageMaker BlazingText built-in algorithm](./sagemaker_blazing_text_built_in_algos/)
 - [Feature transformation with Amazon SageMaker processing job and Feature Store](./sagemaker_feature_store/)
+- [Train a review classifier with BERT and Amazon SageMaker]()
+
+
+***
+**Resources**
+***
+
+
