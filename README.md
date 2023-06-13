@@ -10,6 +10,7 @@
 - [Train a review classifier with BERT and Amazon SageMaker](/classifier_bert_amazon_sagemaker/)
 - [SageMaker pipelines to train a BERT-Based text classifier](./sagemaker_pipeline/)
 - [Optimize models using Automatic Model Tuning](./automatic_model_tuning/)
+- [A/B testing, traffic shifting and autoscaling]()
 
 
 ***
