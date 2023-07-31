@@ -50,6 +50,9 @@
 - [Amazon SageMaker Debugger (GitHub)](https://github.com/awslabs/sagemaker-debugger)
 - [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI](https://www.youtube.com/watch?v=06-AZXmwHjo)
 
+- [ Data labeling and human-in-the-loop pipelines
+with Amazon Augmented AI (A2I)](./data_label_A2I/)
+
 
 
 
